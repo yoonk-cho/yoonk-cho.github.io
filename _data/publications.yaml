@@ -4,7 +4,8 @@ papers:
     image: "/assets/publications/2022_emnlp/temporalwiki.png"
     authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Changho Lee, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Minjoon Seo"
     venue: "Spa-NLP Workshop @ ACL 2022 (poster)"
-    paper_pdf: "https://openreview.net/forum?id=tlVnmqE6r0"
+    paper_pdf: "https://arxiv.org/abs/2204.14211"
+    code: "https://github.com/joeljang/temporalwiki"
     selected: y
 
   - title: "Towards Continual Knowledge Learning of Language Models"
