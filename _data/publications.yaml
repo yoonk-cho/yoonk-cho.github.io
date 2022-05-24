@@ -1,5 +1,10 @@
 papers:
 
+  - title: "Prompt Injection: Parameterization of Fixed Inputs"
+    authors: "Eunbi Choi, Yongrae Jo, <b><u>Joel Jang</u></b>, Minjoon Seo"
+    paper_pdf: "https://openreview.net/forum?id=FjqBs4XKe87"
+    selected: y
+
   - title: "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models"
     image: "/assets/publications/2022_emnlp/temporalwiki.png"
     authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Changho Lee, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Minjoon Seo"
