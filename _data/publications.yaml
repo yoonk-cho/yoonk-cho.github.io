@@ -3,7 +3,8 @@ papers:
   - title: "Prompt Injection: Parameterization of Fixed Inputs"
     image: "/assets/publications/2022_neurips/pi.png"
     authors: "Eunbi Choi, Yongrae Jo, <b><u>Joel Jang</u></b>, Minjoon Seo"
-    paper_pdf: "https://openreview.net/forum?id=FjqBs4XKe87"
+    paper_pdf: "https://arxiv.org/abs/2206.11349"
+    code: "https://github.com/unbiarirang/Prompt-Injection"
     selected: y
 
   - title: "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models"
