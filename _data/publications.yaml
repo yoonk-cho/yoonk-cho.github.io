@@ -1,5 +1,10 @@
 papers:
 
+  - title: "Retrieval of Prompt Tuning Enhances Zero-shot Task Generalization"
+    image: "/assets/publications/2022_emnlp/ropot.png"
+    authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
+    selected: y
+
   - title: "Prompt Injection: Parameterization of Fixed Inputs"
     image: "/assets/publications/2022_neurips/pi.png"
     authors: "Eunbi Choi, Yongrae Jo, <b><u>Joel Jang</u></b>, Minjoon Seo"
