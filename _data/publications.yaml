@@ -1,7 +1,7 @@
 papers:
 
   - title: "Retrieval of Prompt Tuning Enhances Zero-shot Task Generalization"
-    image: "/assets/publications/2022_emnlp/ropot.png"
+    image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
     venue: "Preprint under review"
     selected: y
