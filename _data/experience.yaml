@@ -1,8 +1,14 @@
 experiences:
+- place: "LG AI Research"
+  time: "July 2022 - Present"
+  title: "Research Intern"
+  subtitle: "Working on zero-shot generalization of LMs"
+  category: "work"
+  
 - place: "NAVER AI Labs"
-  time: "Feb. 2022 - Present"
+  time: "Feb. 2022 - June 2022"
   title: "Visiting Researcher (Host: Sangwoo Lee)"
-  subtitle: "Working on entity-guided Mixture-of-Expert LMs"
+  subtitle: "Worked on Adaptation of LMs using sparse architectures"
   category: "work"
 
 - place: "LG AI Research"
