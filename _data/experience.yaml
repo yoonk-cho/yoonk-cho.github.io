@@ -1,20 +1,8 @@
 experiences:
 - place: "LG AI Research"
   time: "July 2022 - Present"
-  title: "Research Intern"
-  subtitle: "Working on zero-shot generalization of LMs"
-  category: "work"
-  
-- place: "NAVER AI Labs"
-  time: "Feb. 2022 - June 2022"
-  title: "Visiting Researcher (Host: Sangwoo Lee)"
-  subtitle: "Worked on Adaptation of LMs using sparse architectures"
-  category: "work"
-
-- place: "LG AI Research"
-  time: "Mar. 2021 - Feb. 2022"
-  title: "Research Collaborator (Collaborator: Joongbo Shin)"
-  subtitle: "Working on establishing benchmarks for ever-evolving LMs"
+  title: "Research Intern (Host: Moontae Lee, Lajanugen Logeswaran)"
+  subtitle: "Working on developing instruction following LMs that can continually learn new tasks"
   category: "work"
 
 - place: "KAIST Language & Knowledge Lab"
