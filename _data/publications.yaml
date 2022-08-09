@@ -30,14 +30,6 @@ papers:
     code: "https://github.com/joeljang/continual-knowledge-learning"
     selected: y
 
-  - title: "Music2Video: Automatic Generation of Music Video with fusion of audio and text"
-    image: "/assets/publications/2021_arXiv/music2video.png"
-    authors: " Yoonjeon Kim*, <b><u>Joel Jang*</u></b>, Sumin Shin*"
-    venue: "arXiv:2201.03809"
-    paper_pdf: "https://arxiv.org/abs/2201.03809"
-    code: "https://github.com/joeljang/music2video"
-    selected: y
-
   - title: "Sequential targeting: A continual learning approach for data imbalance in text classification"
     image: "/assets/publications/2021_eswa/sequential.png"
     authors: "<b><u>Joel Jang</u></b>, Yoonjeon Kim, Kyoungho Choi, Sungho Suh"
