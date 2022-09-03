@@ -3,13 +3,13 @@ papers:
   - title: "Retrieval of Prompt Tuning Enhances Zero-shot Task Generalization"
     image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
-    venue: "Preprint under review"
+    venue: "Preprint Under Review"
     selected: y
 
   - title: "Prompt Injection: Parameterization of Fixed Inputs"
     image: "/assets/publications/2022_neurips/pi.png"
     authors: "Eunbi Choi, Yongrae Jo, <b><u>Joel Jang</u></b>, Minjoon Seo"
-    venue: "arXiv:2206.11349"
+    venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2206.11349"
     code: "https://github.com/unbiarirang/Prompt-Injection"
     selected: y
@@ -17,7 +17,7 @@ papers:
   - title: "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models"
     image: "/assets/publications/2022_emnlp/temporalwiki.png"
     authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Changho Lee, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Minjoon Seo"
-    venue: "Spa-NLP Workshop @ ACL 2022 (poster)"
+    venue: "Preprint Under Review, Spa-NLP Workshop @ ACL 2022"
     paper_pdf: "https://arxiv.org/abs/2204.14211"
     code: "https://github.com/joeljang/temporalwiki"
     selected: y
@@ -25,7 +25,7 @@ papers:
   - title: "Towards Continual Knowledge Learning of Language Models"
     image: "/assets/publications/2022_iclr/ckl.png"
     authors: "<b><u>Joel Jang</u></b>, Seonghyeon Ye, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Stanley Jungkyu Choi, Minjoon Seo"
-    venue: "ICLR 2022 (poster), Spa-NLP Workshop @ ACL 2022 (spotlight)"
+    venue: "ICLR 2022, Spa-NLP Workshop @ ACL 2022 (oral)"
     paper_pdf: "https://www.aclweb.org/anthology/2020.findings-emnlp.293.pdf"
     code: "https://github.com/joeljang/continual-knowledge-learning"
     selected: y
