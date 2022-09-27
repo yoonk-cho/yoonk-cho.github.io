@@ -4,6 +4,8 @@ papers:
     image: "/assets/publications/2022_neurips/inverse.png"
     authors: "<b><u>Joel Jang*</u><b>, Seonghyeon Ye*, Minjoon Seo"
     venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2209.12711"
+    code: "https://github.com/joeljang/negated-prompts-for-llms"
     selected: y
 
   - title: "Retrieval of Prompt Tuning Enhances Zero-shot Task Generalization"
