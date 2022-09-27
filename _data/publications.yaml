@@ -2,7 +2,7 @@ papers:
 
   - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
     image: "/assets/publications/2022_neurips/inverse.png"
-    authors: "<b><u>Joel Jang*</u><b>, Seonghyeon Ye*, Minjoon Seo"
+    authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Minjoon Seo"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2209.12711"
     code: "https://github.com/joeljang/negated-prompts-for-llms"
