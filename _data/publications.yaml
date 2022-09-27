@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
+    image: "/assets/publications/2022_neurips/inverse.png"
+    authors: "<b><u>Joel Jang*</u><b>, Seonghyeon Ye*, Minjoon Seo"
+    venue: "Preprint Under Review"
+    selected: y
+
   - title: "Retrieval of Prompt Tuning Enhances Zero-shot Task Generalization"
     image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
