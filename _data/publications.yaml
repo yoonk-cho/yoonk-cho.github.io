@@ -1,5 +1,19 @@
 papers:
 
+  - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
+    image: "/assets/publications/2023_iclr/unlearning.png"
+    authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://openreview.net/forum?id=zAxuIJLb38"
+    selected: y
+
+  - title: "Guess the Instruction! Making Language Models Stronger Zero-Shot Learners"
+    image: "/assets/publications/2023_iclr/flipped.png"
+    authors: "Seonghyeon Ye, Doyoung Kim, <b><u>Joel Jang</u></b>, Joongbo Shin, Minjoon Seo"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://openreview.net/forum?id=FtOxgKe_Zg2"
+    selected: y
+
   - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
     image: "/assets/publications/2022_neurips/inverse.png"
     authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Minjoon Seo"
