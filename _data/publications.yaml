@@ -48,7 +48,7 @@ papers:
     image: "/assets/publications/2022_iclr/ckl.png"
     authors: "<b><u>Joel Jang</u></b>, Seonghyeon Ye, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Stanley Jungkyu Choi, Minjoon Seo"
     venue: "ICLR 2022, Spa-NLP Workshop @ ACL 2022 (oral)"
-    paper_pdf: "https://www.aclweb.org/anthology/2020.findings-emnlp.293.pdf"
+    paper_pdf: "https://openreview.net/forum?id=vfsRB5MImo9"
     code: "https://github.com/joeljang/continual-knowledge-learning"
     selected: y
 
