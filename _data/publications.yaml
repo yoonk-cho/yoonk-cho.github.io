@@ -5,7 +5,7 @@ papers:
     authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2210.01504"
-    code: "https://github.com/joeljang/knowledge-unlearning
+    code: "https://github.com/joeljang/knowledge-unlearning"
     selected: y
 
   - title: "Guess the Instruction! Making Language Models Stronger Zero-Shot Learners"
