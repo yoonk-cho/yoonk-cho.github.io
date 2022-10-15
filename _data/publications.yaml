@@ -12,7 +12,8 @@ papers:
     image: "/assets/publications/2023_iclr/flipped.png"
     authors: "Seonghyeon Ye, Doyoung Kim, <b><u>Joel Jang</u></b>, Joongbo Shin, Minjoon Seo"
     venue: "Preprint Under Review"
-    paper_pdf: "https://openreview.net/forum?id=FtOxgKe_Zg2"
+    paper_pdf: "https://arxiv.org/abs/2210.02969"
+    code: "https://github.com/seonghyeonye/Flipped-Learning"
     selected: y
 
   - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
@@ -27,6 +28,8 @@ papers:
     image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
     venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2210.03029"
+    code: "https://github.com/seonghyeonye/RoSPr"
     selected: y
 
   - title: "Prompt Injection: Parameterization of Fixed Inputs"
