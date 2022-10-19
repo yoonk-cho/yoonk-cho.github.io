@@ -16,14 +16,6 @@ papers:
     code: "https://github.com/seonghyeonye/Flipped-Learning"
     selected: y
 
-  - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
-    image: "/assets/publications/2022_neurips/inverse.png"
-    authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2209.12711"
-    code: "https://github.com/joeljang/negated-prompts-for-llms"
-    selected: y
-
   - title: "Retrieval of Soft Prompt Enhances Zero-shot Task Generalization"
     image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
@@ -38,6 +30,14 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2206.11349"
     code: "https://github.com/unbiarirang/Prompt-Injection"
+    selected: y
+    
+  - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
+    image: "/assets/publications/2022_neurips/inverse.png"
+    authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Minjoon Seo"
+    venue: "Transfer Learning for NLP Workshop @ NeurIPS 2022"
+    paper_pdf: "https://arxiv.org/abs/2209.12711"
+    code: "https://github.com/joeljang/negated-prompts-for-llms"
     selected: y
 
   - title: "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models"
