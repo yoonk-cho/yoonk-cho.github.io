@@ -1,7 +1,7 @@
 experiences:
-- place: "LG AI Research (Seoul, Korea & Ann Arbor, Michigan)"
+- place: "LG AI Research (Seoul & Ann Arbor)"
   time: "July 2022 - Present"
-  title: "Research Intern (Host: Moontae Lee, Lajanugen Logeswaran, Honglak Lee)"
+  title: "Research Intern (Mentors: Moontae Lee, Lajanugen Logeswaran, Honglak Lee)"
   subtitle: "Working on developing LMs that can generalize to novel tasks"
   category: "work"
 
@@ -13,19 +13,19 @@ experiences:
 
 - place: "Kakao Brain"
   time: "Dec. 2020 - Feb. 2021"
-  title: "Research Intern (Host: Ildoo Kim)"
+  title: "Research Intern (Mentor: Ildoo Kim)"
   subtitle: "Worked on large-scale representation learning"
   category: "work"
 
 - place: "NAVER"
   time: "Jul. 2020 - Sept. 2020"
-  title: "Software Engineer Intern (Host: Kyoungho Choi)"
+  title: "Software Engineer Intern"
   subtitle: "Worked on continual learning on hate speech detection"
   category: "work"
 
 - place: "KIST Europe"
   time: "Aug. 2019 - Jan. 2020"
-  title: "Research Intern (Host: Sungho Suh)"
+  title: "Research Intern (Mentor: Sungho Suh)"
   subtitle: "Worked on machine prognostics through ML"
   category: "work"
 
