@@ -1,14 +1,14 @@
 experiences:
-- place: "LG AI Research"
+- place: "LG AI Research (Seoul, US)"
   time: "July 2022 - Present"
-  title: "Research Intern (Host: Moontae Lee, Lajanugen Logeswaran)"
-  subtitle: "Working on developing instruction following LMs that can continually learn new tasks"
+  title: "Research Intern (Host: Moontae Lee, Lajanugen Logeswaran, Honglak Lee)"
+  subtitle: "Working on developing LMs that can generalize to novel tasks"
   category: "work"
 
 - place: "KAIST Language & Knowledge Lab"
   time: "Mar. 2021 - Present"
   title: "M.S. & Ph.D. (Intergrated) Student (Advisor: Minjoon Seo)"
-  subtitle: "Working on adaptation of large LMs"
+  subtitle: "Working on adaptation (continual pretraining, knowledge injection, knowledge deletion) of LLMs"
   category: "school"
 
 - place: "Kakao Brain"
