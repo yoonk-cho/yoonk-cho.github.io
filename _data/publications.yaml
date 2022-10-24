@@ -35,7 +35,7 @@ papers:
   - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
     image: "/assets/publications/2022_neurips/inverse.png"
     authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Minjoon Seo"
-    venue: "Transfer Learning for NLP Workshop @ NeurIPS 2022"
+    venue: "NeurIPS 2022 Workshop on Transfer Learning for NLP (TL4NLP)"
     paper_pdf: "https://arxiv.org/abs/2209.12711"
     code: "https://github.com/joeljang/negated-prompts-for-llms"
     selected: y
