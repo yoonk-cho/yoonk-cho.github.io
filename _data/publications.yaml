@@ -4,7 +4,7 @@ papers:
     image: "/assets/publications/2023_iclr/unlearning.png"
     authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
     venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2210.01504"
+    paper_pdf: "https://openreview.net/forum?id=zAxuIJLb38"
     code: "https://github.com/joeljang/knowledge-unlearning"
     selected: y
 
@@ -12,7 +12,7 @@ papers:
     image: "/assets/publications/2023_iclr/flipped.png"
     authors: "Seonghyeon Ye, Doyoung Kim, <b><u>Joel Jang</u></b>, Joongbo Shin, Minjoon Seo"
     venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2210.02969"
+    paper_pdf: "https://openreview.net/forum?id=FtOxgKe_Zg2"
     code: "https://github.com/seonghyeonye/Flipped-Learning"
     selected: y
 
