@@ -3,7 +3,7 @@ papers:
     image: "/assets/publications/2023_iclr/unlearning.png"
     authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
     venue: "Preprint Under Review"
-    paper_pdf: "https://openreview.net/forum?id=zAxuIJLb38"
+    paper_pdf: "https://arxiv.org/abs/2210.01504"
     code: "https://github.com/joeljang/knowledge-unlearning"
     selected: y
 
