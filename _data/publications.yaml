@@ -1,4 +1,13 @@
 papers:
+
+  - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
+    image: "/assets/publications/2023_icml/elm.png"
+    authors: "<b><u>Joel Jang</u></b>, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+    venue: "Preprint Under Review"
+    paper_pdf: "https://arxiv.org/abs/2302.03202"
+    code: "https://github.com/joeljang/ELM"
+    selected: y
+    
   - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
     image: "/assets/publications/2023_iclr/unlearning.png"
     authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
