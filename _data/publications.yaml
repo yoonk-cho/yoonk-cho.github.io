@@ -6,6 +6,7 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2302.03202"
     code: "https://github.com/joeljang/ELM"
+    twitter: "https://twitter.com/jang_yoel/status/1623169024489328640?s=20&t=2v4b6Ud5rN_ehtjrpvGFcQ"
     selected: y
     
   - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
