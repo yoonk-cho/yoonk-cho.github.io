@@ -119,10 +119,6 @@ layout: default
                   <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
                 {% endif %}
 
-                {% if paper.slides %}
-                  <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-                {% endif %}
-
                 {% if paper.poster %}
                   <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
                 {% endif %}
@@ -133,6 +129,10 @@ layout: default
 
                 {% if paper.code %}
                   <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+                {% endif %}
+                
+                {% if paper.slides %}
+                  <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
                 {% endif %}
                 
                 {% if paper.twitter %}
@@ -166,10 +166,6 @@ layout: default
                   <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
                 {% endif %}
 
-                {% if paper.slides %}
-                  <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-                {% endif %}
-
                 {% if paper.poster %}
                   <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
                 {% endif %}
@@ -180,6 +176,10 @@ layout: default
 
                 {% if paper.code %}
                   <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+                {% endif %}
+                
+                {% if paper.slides %}
+                  <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
                 {% endif %}
 
                 {% if paper.twitter %}
