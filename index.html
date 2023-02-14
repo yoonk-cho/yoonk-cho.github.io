@@ -103,11 +103,6 @@ layout: default
       {% for paper in selected_papers %}
         <div class="paper">
           <div class="row">
-            <div align="left>
-              {% if paper.paper_pdf %}
-                <b><h4>{{ paper.year }}</h4><hr /></b>
-              {% endif %}
-            </div>
             <!--
             <div class="four columns">
               <div class="figure">
@@ -116,6 +111,9 @@ layout: default
             </div>
             -->
             <div class="twelve columns">
+              {% if paper.paper_pdf %}
+                <b><h4>{{ paper.year }}</h4><hr /></b>
+              {% endif %}
               <p class="title"><b>{{ paper.title }}</b></p>
               <p>{{ paper.authors }}</p>
               <p><i>{{ paper.venue }}</i></p>
