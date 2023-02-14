@@ -80,7 +80,7 @@ layout: default
         <div class="paper">
           <p class="title"><b>Korea University<b style="float:right;">Mar. 2017 - Feb. 2021</b></b></p>
           
-          <p>B.S. in Computer Science (advisor: <a href="https://scholar.google.com/citations?user=RaBZafQAAAAJ&hl=ko">Jaewoo Kang</a>, <a href="https://scholar.google.com/citations?user=HMTkz7oAAAAJ&hl=en">Heuiseok Lim</a>)</p>
+          <p>B.S. in Computer Science
           <p></p>
         </div>
 </div>
@@ -103,6 +103,9 @@ layout: default
       {% for paper in selected_papers %}
         <div class="paper">
           <div class="row">
+            {% if paper.paper_pdf %}
+              <h2>{{ paper.year }}</h2>
+            {% endif %}
             <!--
             <div class="four columns">
               <div class="figure">
@@ -150,13 +153,13 @@ layout: default
       {% for paper in site.data.publications.papers %}
         <div class="paper">
           <div class="row">
-            <!--
+
             <div class="four columns">
               <div class="figure">
                 <img src="{{ paper.image }}" width="100%">
               </div>
             </div>
-            -->
+
             <div class="twelve columns">
               <p class="title"><b>{{ paper.title }}</b></p>
               <p>{{ paper.authors }}</p>
