@@ -43,7 +43,7 @@ papers:
     image: "/assets/publications/2023_iclr/flipped.png"
     authors: "Seonghyeon Ye, Doyoung Kim, <b><u>Joel Jang</u></b>, Joongbo Shin, Minjoon Seo"
     venue: "ICLR 2023"
-    paper_pdf: "https://openreview.net/forum?id=FtOxgKe_Zg2"
+    paper_pdf: "https://arxiv.org/abs/2210.02969"
     code: "https://github.com/seonghyeonye/Flipped-Learning"
     twitter: "https://twitter.com/SeonghyeonYe/status/1580170684466360323?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
@@ -72,7 +72,7 @@ papers:
     image: "/assets/publications/2022_iclr/ckl.png"
     authors: "<b><u>Joel Jang</u></b>, Seonghyeon Ye, Sohee Yang, Joongbo Shin, Janghoon Han, Gyeonghun Kim, Stanley Jungkyu Choi, Minjoon Seo"
     venue: "ICLR 2022"
-    paper_pdf: "https://openreview.net/forum?id=vfsRB5MImo9"
+    paper_pdf: "https://arxiv.org/abs/2110.03215"
     code: "https://github.com/joeljang/continual-knowledge-learning"
     slides: "https://docs.google.com/presentation/d/1OGIm6rJIqTUQhXw_URD-MDjdMK_5Arjh92mtLjDNilM/edit?usp=sharing"
     twitter: "https://twitter.com/jang_yoel/status/1453323192135667721?s=20&t=EJPg6GTKt345aQMq-HiILA"
