@@ -1,6 +1,7 @@
 papers:
 
   - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
+    year: "2023"
     image: "/assets/publications/2023_icml/elm.png"
     authors: "<b><u>Joel Jang</u></b>, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
     venue: "Preprint Under Review"
@@ -48,6 +49,7 @@ papers:
     selected: y
     
   - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
+    year: "2022"
     image: "/assets/publications/2022_neurips/inverse.png"
     authors: "<b><u>Joel Jang*</u></b>, Seonghyeon Ye*, Minjoon Seo"
     venue: "NeurIPS 2022 Workshop on Transfer Learning for NLP (TL4NLP)"
@@ -77,6 +79,7 @@ papers:
     selected: y
 
   - title: "Sequential targeting: A continual learning approach for data imbalance in text classification"
+    year: "2021"
     image: "/assets/publications/2021_eswa/sequential.png"
     authors: "<b><u>Joel Jang</u></b>, Yoonjeon Kim, Kyoungho Choi, Sungho Suh"
     venue: "Expert Systems with Applications (2021)"
@@ -90,4 +93,4 @@ papers:
     venue: "Sensors (2020)"
     paper_pdf: "https://www.mdpi.com/1424-8220/20/20/5846"
     code: "https://github.com/joeljang/Remaining-Useful-Life-Prediction"
-    selected: y
+    selected: n
