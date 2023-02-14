@@ -6,6 +6,7 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2302.03202"
     code: "https://github.com/joeljang/ELM"
+    slides: "https://docs.google.com/presentation/d/1PJEB96U2SWGeGkVDbfydeN4JXjSB5z-4BI9YGy5Pt9Y/edit?usp=sharing"
     twitter: "https://twitter.com/jang_yoel/status/1623169024489328640?s=20&t=2v4b6Ud5rN_ehtjrpvGFcQ"
     selected: y
     
@@ -15,6 +16,8 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2210.01504"
     code: "https://github.com/joeljang/knowledge-unlearning"
+    slides: "https://docs.google.com/presentation/d/1qK7ET5UzTY-q6c0viQCl74VDhHZ2-bEH0oVBzA1VN30/edit?usp=sharing"
+    twitter: "https://twitter.com/jang_yoel/status/1577642097041354752?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
 
   - title: "Retrieval of Soft Prompt Enhances Zero-shot Task Generalization"
@@ -23,6 +26,7 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2210.03029"
     code: "https://github.com/seonghyeonye/RoSPr"
+    twitter: "https://twitter.com/SeonghyeonYe/status/1578239880102281221?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
 
   - title: "Fixed Input Parameterization for Efficient Prompting"
@@ -31,6 +35,7 @@ papers:
     venue: "Preprint Under Review"
     paper_pdf: "https://arxiv.org/abs/2206.11349"
     code: "https://github.com/unbiarirang/Prompt-Injection"
+    twitter: "https://twitter.com/eunbi__choi/status/1548891869811458048?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
     
   - title: "Guess the Instruction! Making Language Models Stronger Zero-Shot Learners"
@@ -39,6 +44,7 @@ papers:
     venue: "ICLR 2023"
     paper_pdf: "https://openreview.net/forum?id=FtOxgKe_Zg2"
     code: "https://github.com/seonghyeonye/Flipped-Learning"
+    twitter: "https://twitter.com/SeonghyeonYe/status/1580170684466360323?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
     
   - title: "Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts"
@@ -47,6 +53,7 @@ papers:
     venue: "NeurIPS 2022 Workshop on Transfer Learning for NLP (TL4NLP)"
     paper_pdf: "https://arxiv.org/abs/2209.12711"
     code: "https://github.com/joeljang/negated-prompts-for-llms"
+    slides: "https://docs.google.com/presentation/d/1TfVQA0evQ58DeDDzzLAxtryk3J5EIoiHiAPQJgaFZKg/edit?usp=sharing"
     selected: y
 
   - title: "TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models"
@@ -55,6 +62,8 @@ papers:
     venue: "EMNLP 2022"
     paper_pdf: "https://arxiv.org/abs/2204.14211"
     code: "https://github.com/joeljang/temporalwiki"
+    slides: "https://docs.google.com/presentation/d/1biItlNm2R_N-fx9IreykvQSmI1eUi9B0-Hwtk3WKZow/edit?usp=sharing"
+    twitter: "https://twitter.com/jang_yoel/status/1521468905281056768?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
 
   - title: "Towards Continual Knowledge Learning of Language Models"
@@ -63,6 +72,8 @@ papers:
     venue: "ICLR 2022"
     paper_pdf: "https://openreview.net/forum?id=vfsRB5MImo9"
     code: "https://github.com/joeljang/continual-knowledge-learning"
+    slides: "https://docs.google.com/presentation/d/1OGIm6rJIqTUQhXw_URD-MDjdMK_5Arjh92mtLjDNilM/edit?usp=sharing"
+    twitter: "https://twitter.com/jang_yoel/status/1521468905281056768?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
 
   - title: "Sequential targeting: A continual learning approach for data imbalance in text classification"
