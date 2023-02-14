@@ -111,8 +111,8 @@ layout: default
             </div>
             -->
             <div class="twelve columns">
-              {% if paper.paper_pdf %}
-                <b><h4>{{ paper.year }}</h4></b>
+              {% if paper.year %}
+                <p align="left"><b><h5>{{ paper.year }}</h5><hr /></b></p>
               {% endif %}
               <p class="title"><b>{{ paper.title }}</b></p>
               <p>{{ paper.authors }}</p>
