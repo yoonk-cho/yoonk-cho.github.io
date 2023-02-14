@@ -75,7 +75,7 @@ papers:
     paper_pdf: "https://openreview.net/forum?id=vfsRB5MImo9"
     code: "https://github.com/joeljang/continual-knowledge-learning"
     slides: "https://docs.google.com/presentation/d/1OGIm6rJIqTUQhXw_URD-MDjdMK_5Arjh92mtLjDNilM/edit?usp=sharing"
-    twitter: "https://twitter.com/jang_yoel/status/1521468905281056768?s=20&t=SEcE7zooqxlba79QZv6D1A"
+    twitter: "https://twitter.com/jang_yoel/status/1453323192135667721?s=20&t=EJPg6GTKt345aQMq-HiILA"
     selected: y
 
   - title: "Sequential targeting: A continual learning approach for data imbalance in text classification"
