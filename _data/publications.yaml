@@ -1,15 +1,4 @@
 papers:
-
-  - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
-    year: "2023"
-    image: "/assets/publications/2023_icml/elm.png"
-    authors: "<b><u>Joel Jang</u></b>, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2302.03202"
-    code: "https://github.com/joeljang/ELM"
-    slides: "https://docs.google.com/presentation/d/1PJEB96U2SWGeGkVDbfydeN4JXjSB5z-4BI9YGy5Pt9Y/edit?usp=sharing"
-    twitter: "https://twitter.com/jang_yoel/status/1623169024489328640?s=20&t=2v4b6Ud5rN_ehtjrpvGFcQ"
-    selected: y
     
   - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
     image: "/assets/publications/2023_iclr/unlearning.png"
@@ -37,6 +26,17 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2206.11349"
     code: "https://github.com/unbiarirang/Prompt-Injection"
     twitter: "https://twitter.com/eunbi__choi/status/1548891869811458048?s=20&t=SEcE7zooqxlba79QZv6D1A"
+    selected: y
+    
+ - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
+    year: "2023"
+    image: "/assets/publications/2023_icml/elm.png"
+    authors: "<b><u>Joel Jang</u></b>, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
+    venue: "ICML 2023"
+    paper_pdf: "https://arxiv.org/abs/2302.03202"
+    code: "https://github.com/joeljang/ELM"
+    slides: "https://docs.google.com/presentation/d/1PJEB96U2SWGeGkVDbfydeN4JXjSB5z-4BI9YGy5Pt9Y/edit?usp=sharing"
+    twitter: "https://twitter.com/jang_yoel/status/1623169024489328640?s=20&t=2v4b6Ud5rN_ehtjrpvGFcQ"
     selected: y
     
   - title: "Guess the Instruction! Making Language Models Stronger Zero-Shot Learners"
