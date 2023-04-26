@@ -1,6 +1,7 @@
 papers:
     
   - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
+    year: "Preprints"
     image: "/assets/publications/2023_iclr/unlearning.png"
     authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
     venue: "Preprint Under Review"
