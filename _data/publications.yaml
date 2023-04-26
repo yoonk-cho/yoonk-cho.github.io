@@ -29,7 +29,7 @@ papers:
     twitter: "https://twitter.com/eunbi__choi/status/1548891869811458048?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
     
- - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
+  - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
     year: "2023"
     image: "/assets/publications/2023_icml/elm.png"
     authors: "<b><u>Joel Jang</u></b>, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
