@@ -1,17 +1,6 @@
-papers:
-    
-  - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
-    year: "Preprints"
-    image: "/assets/publications/2023_iclr/unlearning.png"
-    authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
-    venue: "Preprint Under Review"
-    paper_pdf: "https://arxiv.org/abs/2210.01504"
-    code: "https://github.com/joeljang/knowledge-unlearning"
-    slides: "https://docs.google.com/presentation/d/1qK7ET5UzTY-q6c0viQCl74VDhHZ2-bEH0oVBzA1VN30/edit?usp=sharing"
-    twitter: "https://twitter.com/jang_yoel/status/1577642097041354752?s=20&t=SEcE7zooqxlba79QZv6D1A"
-    selected: y
-
+papers:  
   - title: "Retrieval of Soft Prompt Enhances Zero-shot Task Generalization"
+    year: "Preprints"
     image: "/assets/publications/2022_emnlp/ropt.png"
     authors: "Seonghyeon Ye, <b><u>Joel Jang</u></b>, Doyoung Kim, Yongrae Jo, Minjoon Seo"
     venue: "Preprint Under Review"
@@ -28,7 +17,27 @@ papers:
     code: "https://github.com/unbiarirang/Prompt-Injection"
     twitter: "https://twitter.com/eunbi__choi/status/1548891869811458048?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
-    
+ 
+   -title: "Gradient Ascent Post-training Enhances Language Model Generalization"
+    image: "/assets/publications/2023_iclr/unlearning.png"
+    authors: "Dongkeun Yoon*, <b><u>Joel Jang*</u></b>, Sungdong Kim, Minjoon Seo"
+    venue: "ACL 2023"
+    paper_pdf: "https://arxiv.org/abs/2210.01504"
+    code: "https://github.com/joeljang/knowledge-unlearning"
+    slides: "https://docs.google.com/presentation/d/1qK7ET5UzTY-q6c0viQCl74VDhHZ2-bEH0oVBzA1VN30/edit?usp=sharing"
+    twitter: "https://twitter.com/jang_yoel/status/1577642097041354752?s=20&t=SEcE7zooqxlba79QZv6D1A"
+    selected: y
+ 
+  - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
+    image: "/assets/publications/2023_iclr/unlearning.png"
+    authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
+    venue: "ACL 2023"
+    paper_pdf: "https://arxiv.org/abs/2210.01504"
+    code: "https://github.com/joeljang/knowledge-unlearning"
+    slides: "https://docs.google.com/presentation/d/1qK7ET5UzTY-q6c0viQCl74VDhHZ2-bEH0oVBzA1VN30/edit?usp=sharing"
+    twitter: "https://twitter.com/jang_yoel/status/1577642097041354752?s=20&t=SEcE7zooqxlba79QZv6D1A"
+    selected: y
+ 
   - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
     year: "2023"
     image: "/assets/publications/2023_icml/elm.png"
