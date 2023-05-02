@@ -22,10 +22,6 @@ papers:
     image: "/assets/publications/2023_iclr/unlearning.png"
     authors: "Dongkeun Yoon*, <b><u>Joel Jang*</u></b>, Sungdong Kim, Minjoon Seo"
     venue: "ACL 2023"
-    paper_pdf: "https://arxiv.org/abs/2210.01504"
-    code: "https://github.com/joeljang/knowledge-unlearning"
-    slides: "https://docs.google.com/presentation/d/1qK7ET5UzTY-q6c0viQCl74VDhHZ2-bEH0oVBzA1VN30/edit?usp=sharing"
-    twitter: "https://twitter.com/jang_yoel/status/1577642097041354752?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
  
   - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
