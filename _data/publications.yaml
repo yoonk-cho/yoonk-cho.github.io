@@ -19,7 +19,8 @@ papers:
     twitter: "https://twitter.com/eunbi__choi/status/1548891869811458048?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
     
-  - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"  
+  - title: "Knowledge Unlearning for Mitigating Privacy Risks in Language Models"
+    year: "2023"
     image: "/assets/publications/2023_iclr/unlearning.png"
     authors: "<b><u>Joel Jang</u></b>, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo"
     venue: "ACL 2023"
@@ -29,8 +30,13 @@ papers:
     twitter: "https://twitter.com/jang_yoel/status/1577642097041354752?s=20&t=SEcE7zooqxlba79QZv6D1A"
     selected: y
     
+  - title: "Gradient Ascent Post-training Enhances Language Model Generalization"
+    image: "/assets/publications/2023_iclr/unlearning.png"
+    authors: "Dongkeun Yoon*, <b><u>Joel Jang*</u></b>, Sungdong Kim, Minjoon Seo"
+    venue: "ACL 2023"
+    selected: y
+    
   - title: "Exploring the Benefits of Training Expert Language Models over Instruction Tuning"
-    year: "2023"
     image: "/assets/publications/2023_icml/elm.png"
     authors: "<b><u>Joel Jang</u></b>, Seungone Kim, Seonghyeon Ye, Doyoung Kim, Lajanugen Logeswaran, Moontae Lee, Kyungjae Lee, Minjoon Seo"
     venue: "ICML 2023"
