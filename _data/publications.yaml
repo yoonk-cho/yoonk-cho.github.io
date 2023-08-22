@@ -20,7 +20,7 @@ papers:
     paper_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9193901/"
     selected: y
 
-  - title: "Sarcopenic Obesity, Metabolic syndrome, and Mortality: the KoGES Mortality Follow-up Study"
+  - title: "Sarcopenic Obesity, Metabolic Syndrome, and Mortality: the KoGES Mortality Follow-up Study"
     authors: "<b><u>Yoonkyoung Cho</u></b>, Hannah Oh"
     venue: "5th APCMS Congress (Korean Society of Cardiometabolic Syndrome)"
     selected: y
@@ -29,9 +29,11 @@ papers:
     year: "Poster Presentations"
     authors: "<b><u>Yoonkyoung Cho</u></b>, Hajin Jang, Hannah Oh"
     venue: "NUTRITION 2023 (American Society for Nutrition)"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S2475299123263507?via%3Dihub"
     selected: y
  
   - title: "Screen Time and Obesity in Adolescents: An Isotemporal Substitution Analysis"
     authors: "<b><u>Yoonkyoung Cho</u></b>, Hajin Jang, Hannah Oh"
     venue: "NUTRITION 2023 (American Society for Nutrition)"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S2475299123262782?via%3Dihub"
     selected: y
