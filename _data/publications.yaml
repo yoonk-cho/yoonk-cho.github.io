@@ -1,4 +1,11 @@
 papers:
+   - title: "Ultra-processed food intake and risk of type 2 diabetes in Korean adults"
+    year: "2023"
+    authors: "<b><u>Yoonkyoung Cho</u></b>*, Seaun Ryu*, Rockli Kim, Min-Jeong Shin, Hannah Oh (*co-first author)"
+    venue: "The Journal of Nutrition"
+    paper_pdf: "https://pubmed.ncbi.nlm.nih.gov/38007182/"
+    selected: y
+  
   - title: "Aerobic, muscle-strengthening, and flexibility physical activity and risks of all-cause and cause-specific mortality: a population-based prospective cohort of Korean adults"
     year: "2023"
     authors: "<b><u>Yoonkyoung Cho</u></b>, Hajin Jang, Sohyeon Kwon, Hannah Oh"
